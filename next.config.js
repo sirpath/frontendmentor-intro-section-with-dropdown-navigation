@@ -6,7 +6,8 @@
  */
 const REPO = 'MY-REPO-NAME'
 const nextConfig = {
-  output: 'export'
+  output: 'export',
+  images: { unoptimized: true }
 }
 
 if (process.env.NODE_ENV !== "development") {
