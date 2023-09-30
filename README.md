@@ -1,6 +1,12 @@
+# Live Demo
+
+https://sirpath.github.io/frontendmentor-intro-section-with-dropdown-navigation
+
+ref-https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5/hub
+
 # Frontend Mentor - Intro section with dropdown navigation
 
-![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Intro section with dropdown navigation coding challenge](./challenger/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 

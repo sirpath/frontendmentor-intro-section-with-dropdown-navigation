@@ -1,5 +1,5 @@
 const Footer = () => (
-  <footer className="pt-5 md:p-20">
+  <footer className="pt-5 text-center md:p-20">
     Challenge by
     {' '}
     <a
